@@ -1,6 +1,6 @@
 # sinpuru
 
-A `sinpuru` homepage. [demo](https://shinpuru.demo.zhixuan.dev)
+A `sinpuru` homepage. [demo](https://sinpuru.demo.zhixuan.dev)
 
 ## Description
 
@@ -9,8 +9,8 @@ A `sinpuru` homepage. [demo](https://shinpuru.demo.zhixuan.dev)
 ## Getting Started
 
 ```sh
-git clone https://github.com/zhixuan2333/shinpuru.git
-cd shinpuru
+git clone https://github.com/zhixuan2333/sinpuru.git
+cd sinpuru
 npm install
 npm run dev
 ```
