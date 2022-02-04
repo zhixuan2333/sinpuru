@@ -4,7 +4,7 @@ A `sinpuru` homepage. [demo](https://sinpuru.demo.zhixuan.dev)
 
 ## Description
 
-`sinpuru` is means `simple` in japanese. So this is a simple homepage build by svelte.
+`sinpuru` is means `simple` in japanese. So this is a simple homepage made with Svelte.
 
 ## Getting Started
 
