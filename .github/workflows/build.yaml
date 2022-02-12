@@ -20,6 +20,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
+      - name: init 🔧
+        run: npm i
+
       - name: Build 🔧
         run: npm run build
 
