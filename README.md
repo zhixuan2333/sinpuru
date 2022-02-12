@@ -17,6 +17,8 @@ npm run dev
 
 ## License
 
+**_Please do not remove the `Create By zhixuan` text and link._**
+
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
 
 ## Acknowledgments
