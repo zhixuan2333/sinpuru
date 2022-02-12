@@ -40,6 +40,11 @@
     <meta property="og:image:height" content="1080" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content={name} />
+    <link rel="icon" href="https://www.zhixuan.dev/favicon.ico" />
+    <link rel="icon" href="https://www.zhixuan.dev/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://www.zhixuan.dev/favicon-16x16.ico" sizes="16x16" />
+    <link rel="apple-touch-icon" href="https://www.zhixuan.dev/apple-touch-icon.png" />
+    <link rel="manifest" href="https://www.zhixuan.dev/site.webmanifest" />
 
     <script
         async
@@ -57,7 +62,7 @@
                     alt="Avatar for {name}"
                     width="300"
                     height="300"
-                    src="https://res.cloudinary.com/zhixuan/image/upload/c_scale,f_auto,h_300/v1642933312/avatar_ig7vzi.png"
+                    src="https://www.zhixuan.dev/avatar.png"
                 />
             </div>
             <div class="flex flex-col items-center gap-4">
