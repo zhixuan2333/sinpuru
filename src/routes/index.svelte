@@ -56,13 +56,17 @@
     <div class="flex md:flex-row flex-col md:w-2/3 sm:w-3/5 w-4/5 items-center md:gap-16 gap-6">
         <div class="flex flex-col md:gap-6 gap-4 items-center">
             <div class="lg:w-56 w-40">
-                <img
-                    class="rounded-full"
-                    alt="Avatar for {name}"
-                    width="300"
-                    height="300"
-                    src="/avatar.png"
-                />
+                <picture>
+                    <source type="image/webp" srcset="/avatar.webp" />
+                    <source type="image/png" srcset="/avatar.png" />
+                    <img
+                        class="rounded-full"
+                        src="/avatar.png"
+                        alt="Avatar for {name}"
+                        width="300"
+                        height="300"
+                    />
+                </picture>
             </div>
             <div class="flex flex-col items-center gap-4">
                 <h1 class="md:text-3xl text-2xl font-bold">{name}</h1>
