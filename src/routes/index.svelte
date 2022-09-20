@@ -130,7 +130,7 @@
             >zhixuan
         </a>.
     </p>
-    <p>© 2020 - 2021 All right reserved.</p>
+    <p>© 2020 - 2022 All right reserved.</p>
 </footer>
 
 <style lang="scss">
